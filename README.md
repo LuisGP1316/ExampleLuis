@@ -19,6 +19,7 @@ Annely Zerpa estuvo aqui.
 #En esta seccion va a escribir Annely (Colocar en el commit "Updated by Annely")
 
 #En esta seccion va  a escribir Luis (Colocar en el commit "Updated by Luis")
+Annely zerpa se fue.
 
 #En esta seccion va a escribir jbarriosUC (Colocar en el commit "Updated by jbarriosUC")
 
